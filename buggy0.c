@@ -8,5 +8,7 @@ int main(void)
         printf("\n");
         printf("i is now %i\n", i); //value of i before print #
         printf("#\n");
+
+        printf("\n");
     }
 }
